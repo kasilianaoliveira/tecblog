@@ -50,9 +50,10 @@ h3 {
   margin-bottom: 10px;
 }
 
-.texto-lateral {
+.postagem-lateral {
   font-size: 0.8em;
   padding: 5px;
+  border-bottom: 2px solid #ccc;
 }
 
 .info {
